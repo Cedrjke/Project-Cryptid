@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac8a95d8b4584ec459cf03ce2b4ef8b4, type: 3}
+  m_Name: Room2Key
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  itemName: Room 2 Key
+  itemIcon: {fileID: -7515593581146414993, guid: 461bd6d18af3f574fb693139a3f0b646, type: 3}
+  itemDescription: 

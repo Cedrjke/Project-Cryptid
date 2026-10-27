@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f3ca935a50812429cc3ebaeb10e17a, type: 3}
+  m_Name: Kitchen
+  m_EditorClassIdentifier: Assembly-CSharp::LocationNode
+  roomAmbientSound: {fileID: 8300000, guid: e7855ce9cb79e5a449c268d348ece985, type: 3}
+  locationName: Kitchen
+  locationDescription: 
+  backgroundSprite: {fileID: -7127815578132815392, guid: c5686d39a9b780d4b808132115a3e96d, type: 3}
+  upRoute: {fileID: 0}
+  downRoute: {fileID: 0}
+  leftRoute: {fileID: 11400000, guid: a1210af0bac801a4588146d3d194c17f, type: 2}
+  rightRoute: {fileID: 11400000, guid: bd44d8fe6dd290c4094fad8171b90b67, type: 2}
+  closetRoute: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f3ca935a50812429cc3ebaeb10e17a, type: 3}
+  m_Name: Hallway
+  m_EditorClassIdentifier: Assembly-CSharp::LocationNode
+  roomAmbientSound: {fileID: 8300000, guid: e7855ce9cb79e5a449c268d348ece985, type: 3}
+  locationName: Hallway
+  locationDescription: 
+  backgroundSprite: {fileID: -980475979106996294, guid: 80af2a91575124c448ba3ba238feaf5a, type: 3}
+  upRoute: {fileID: 11400000, guid: b422f166078c81448863d1f23c541fcb, type: 2}
+  downRoute: {fileID: 11400000, guid: c2d3c1a403a98c549933577906e5020b, type: 2}
+  leftRoute: {fileID: 11400000, guid: 44c88598fe34b0a43aa4972eefeab8c1, type: 2}
+  rightRoute: {fileID: 11400000, guid: 911c5ab74368faf4f85d519c3c86abeb, type: 2}
+  closetRoute: {fileID: 0}

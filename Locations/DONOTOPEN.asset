@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f3ca935a50812429cc3ebaeb10e17a, type: 3}
+  m_Name: DONOTOPEN
+  m_EditorClassIdentifier: Assembly-CSharp::LocationNode
+  roomAmbientSound: {fileID: 8300000, guid: 9857e09d1468d0b49aa14e942d6e9a03, type: 3}
+  locationName: Here Goes Nothing.
+  locationDescription: 
+  backgroundSprite: {fileID: -4350878198771798591, guid: 4b240fff0f5c28447804a32b9c3f8fd2, type: 3}
+  upRoute: {fileID: 0}
+  downRoute: {fileID: 11400000, guid: 7ae8d0f52f53bea419b3debdfd4f96f2, type: 2}
+  leftRoute: {fileID: 0}
+  rightRoute: {fileID: 0}
+  closetRoute: {fileID: 0}

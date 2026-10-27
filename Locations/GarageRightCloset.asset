@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f3ca935a50812429cc3ebaeb10e17a, type: 3}
+  m_Name: GarageRightCloset
+  m_EditorClassIdentifier: Assembly-CSharp::LocationNode
+  roomAmbientSound: {fileID: 8300000, guid: ad2b3a544d5168841b642b1d9603ba6e, type: 3}
+  locationName: Closet
+  locationDescription: 
+  backgroundSprite: {fileID: 3381699702559310822, guid: aaef222c32c072841a294ccf4b36d558, type: 3}
+  upRoute: {fileID: 0}
+  downRoute: {fileID: 11400000, guid: 91b2d5371156a2a4e90c47d272048c9c, type: 2}
+  leftRoute: {fileID: 0}
+  rightRoute: {fileID: 0}
+  closetRoute: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f3ca935a50812429cc3ebaeb10e17a, type: 3}
+  m_Name: ForestEntrance
+  m_EditorClassIdentifier: Assembly-CSharp::LocationNode
+  roomAmbientSound: {fileID: 0}
+  locationName: Forest Entrance
+  locationDescription: 
+  backgroundSprite: {fileID: -8794844037451755992, guid: 23f2fb30682d7b34e836676071baf8cb, type: 3}
+  upRoute: {fileID: 11400000, guid: 3045c4ff824beaf4c808c94bf8b7e496, type: 2}
+  downRoute: {fileID: 0}
+  leftRoute: {fileID: 0}
+  rightRoute: {fileID: 0}
+  closetRoute: {fileID: 0}
